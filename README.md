@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dennisangemi
 - 👀 I’m interested in Science, OpenData, Photography and Genealogy
-- 🌱 I’m currently learning R and Python
+- 🌱 I’m currently learning R and MATLAB
 - 📫 How to reach me:
   - [Email](mailto:dennisangemi@gmail.com)
   - [Twitter](https://twitter.com/dennisangemi)
